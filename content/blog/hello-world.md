@@ -44,7 +44,7 @@ RBF places ethics, mission, vision and values first, before profit.
 
 ## Join
 
-[Join the Panmoni Discord](https://discord.gg/MaybgkHs53) to peruse the RBF channels started!
+[Join the Panmoni Discord](https://discord.gg/MaybgkHs53) to peruse the RBF channels and get started!
 
 ## Vision
 
