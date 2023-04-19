@@ -15,14 +15,6 @@ We welcome you no matter what chain you are building on and no matter what langu
 
 > The degree to which a network facilitates interconnections determines the extent of its emergent creativity, innovation and wealth. - Radoff’s law
 
-<a href="https://discord.gg/FTNYNkU5kj" target="_blank"><img
-            src="https://www.realbitcoinfam.com/images/realbitcoinfam-logo.png"
-            alt="Real Bitcoin Fam logo"
-            width="375"
-            height="360"
-            class="mx-auto"
-          /></a>
-
 ## Benefits
 
 By participating in Real Bitcoin Fam, or RBF, you can access the following benefits:
