@@ -1,7 +1,7 @@
 ---
 title: A BCH CashTokens education project
-description: 
+description: pending
 date: 2023-05-01
-url: 
+url: https://example.com
 draft: true
 ---
