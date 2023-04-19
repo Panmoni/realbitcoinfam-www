@@ -70,7 +70,7 @@ Key RBF values include: permissionlessness, inclusivity, positivity, supportiven
 
 ## Membership
 
-Anyone is always welcome to join the public channels of the Panmoni/RBF discord.
+Anyone is always welcome to join the public channels of the [Panmoni/RBF discord](https://discord.gg/MaybgkHs53).
 
 There is a code of conduct that will be enforced in order to maintain and a safe and constructive environment for builders.
 
@@ -100,4 +100,4 @@ The expected flow for new members is as follows:
 
 ## Contact
 
-Please [join the Panmoni Discord](https://discord.gg/MaybgkHs53) and ask any questions in the RBF channels there. Your feedback is welcome on the contents of this page, which are likely to evolve over time based on community feedback, pull requests and governance votes.
+Please [join the Panmoni Discord](https://discord.gg/MaybgkHs53) and ask any questions in the RBF channels there. Your feedback is welcome on the contents of this page, which are likely to evolve over time based on community feedback, [pull requests](https://github.com/Panmoni/realbitcoinfam-www) and governance votes.
