@@ -56,7 +56,7 @@ Billions of people across the world are excluded from prosperity and wellbeing b
 
 RBF plays, not a zero-sum game like Web2 powers or corrupt governments, but a positive-sum, infinite game, where prosperity is essentially limited only by merit and effort.
 
-RBF is focused on investing in people; in the future leaders and builders who see value in a different vision for the future.
+RBF is focused on investing in people; in the leaders and builders who see value in a different vision for the future.
 
 ## Mission
 
@@ -72,13 +72,13 @@ Key RBF values include: permissionlessness, inclusivity, positivity, supportiven
 
 Anyone is always welcome to join the public channels of the [Panmoni/RBF discord](https://discord.gg/MaybgkHs53).
 
-There is a code of conduct that will be enforced in order to maintain and a safe and constructive environment for builders.
+There is a code of conduct that will be enforced in order to maintain a safe and constructive environment for builders.
 
 To become a **full member** of RBF, and participate in governance, RBF discord members will build something noteworthy that is completely of their own creation (as a team or individually), having been mentored by 1-3 other (full) RBF members.
 
 It is expected that full members will be able to join the planned RBF DAO and play a full role in governance of the community.
 
-Any grant of governance tokens will be on a 1-person-1-vote basis in order to minimize hierarchy. There will be no team pre-mine or similar token grant that would grant some members an unfair governance advantage over others.
+Any grant of governance tokens will be on a 1-person-1-vote basis in order to minimize hierarchy. There will be no team pre-mine or similar token grant that would give some members an unfair governance advantage over others.
 
 ## Roadmap
 
