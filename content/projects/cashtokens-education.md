@@ -1,7 +1,7 @@
 ---
-title: A BCH CashTokens education project
-description: pending
+title: Token Pioneers is a BCH CashTokens education project
+description:
 date: 2023-05-01
-url: https://example.com
+url: https://flipstarter.bitcoincashsite.com/
 draft: true
 ---
