@@ -34,6 +34,17 @@ import Footer from "../components/Footer.astro";
   <body
     class="max-w-3xl mx-auto min-h-screen px-6 sm:px-8"
   >
+  
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4D6DQ5706B"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-4D6DQ5706B');
+    </script>
+
     <Header />
     <main id="main">
       <slot name="main" />
